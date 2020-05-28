@@ -1,2 +1,4 @@
 # Deep-Learning-Coursework-The-COMP6248-Reproducibility-Challenge-CapsGNN-TF
-This is a public repository for Deep Learning Coursework: The COMP6248 Reproducibility Challenge
+This is a public repository for Deep Learning Coursework: The COMP6248 Reproducibility Challenge in the University of Southampton.
+
+The related source code is provided by Xinyi001 CapsGNN and the source code can be found here: https://github.com/XinyiZ001/CapsGNN.
